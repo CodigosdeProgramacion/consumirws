@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumir WS CDP</string>
+    <string name="enviar">Enviar</string>
+    <string name="body">Body</string>
+    <string name="userid">UserId</string>
+    <string name="title">Title</string>
+</resources>
